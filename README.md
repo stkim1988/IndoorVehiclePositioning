@@ -1,8 +1,8 @@
-## Indoor vehicle positioning project
+### Indoor vehicle positioning project
 
 Using multiple fisheye surveillience cameras, 
 we accurately estimated the position of detected vehicle.  
 
-### Video results
+#### Video results
 
 soon coming
