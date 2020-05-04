@@ -22,9 +22,9 @@ will be available soon
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
 The demo video consists of several windows as shown figures below.
- - for single camera<br/>
+ - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
- - for two camera<br/>
+ - For two cameras<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="1" allowfullscreen></iframe><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="1" allowfullscreen></iframe><br/>
