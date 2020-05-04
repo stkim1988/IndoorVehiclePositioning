@@ -31,7 +31,7 @@ will be available soon
 
 - Multiple cameras<br>
 <!--![Video index](./img/multiviewtable.png = 640x)-->
-<img src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png" width="980" height="360">
+<img src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png" width="980" height="360"><br/>
     - camera 1&2<br>
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>
 <!--[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  -->
