@@ -21,6 +21,19 @@ will be available soon
 #### 2. Real
 - Single cameras<br> 
 {% include singleCamIndex.html %}
+<table class="tg">
+<tbody>
+<tr>
+<th class="tg-exl0"><br /><br /><strong>Fisheye image</strong><br /><br /><br /></th>
+<th class="tg-exl0"><br /><br /><strong>Perspective bird's eye view</strong><br /><br /><br /></th>
+<th class="tg-exl0" rowspan="2"><strong>Vehicle localization result </strong><br /><strong>in orthographic bird's eye view</strong></th>
+</tr>
+<tr>
+<td class="tg-exl0"><br /><br /><strong>Segmentation result</strong><br /><br /><br /></td>
+<td class="tg-exl0"><br /><strong>Segmentation result </strong><br /><strong>in p<span style="font-style: normal;">erspective bird's eye view</span></strong><br /><br /></td>
+</tr>
+</tbody>
+</table>
     - camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
     - camera 2<br>
