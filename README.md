@@ -20,7 +20,7 @@ will be available soon
 
 #### 2. Real
 - Single cameras<br> 
-![Video index](./img/singleviewtable.png){: width="20%" height="20%"}
+![Video index](./img/singleviewtable.png){: width="50%" height="50%"}
     - camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
     - camera 2<br>
