@@ -27,7 +27,7 @@ will be available soon
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 - Multiple cameras  
-
+![Video index](./img/multiviewtable.png)
     - camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
