@@ -11,6 +11,9 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 
  
 #### 1. 1:18 Testbed
+Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.  
+In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system.   
+The demo videos consists of multiple windows as shown in the figure below.
 
 - Single cameras<br>
 will be available soon
@@ -19,9 +22,9 @@ will be available soon
 will be available soon
 
 #### 2. Real
-Below are demo videos of our indoor vehicle localization results in real parking lots.
-In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system. 
-The demo videos consists of multiple windows as shown in the figure below.
+Below are demo videos of our indoor vehicle localization results in real parking lots.  
+In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
+The demo videos consists of multiple windows as shown in the figure below.  
  - for single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - for two camera<br/>
@@ -40,6 +43,12 @@ The demo videos consists of multiple windows as shown in the figure below.
     - camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)<br/>
 -->
+
+
+### References
+---
+[1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.
+
 
 ---
 Source code(under construction)  
