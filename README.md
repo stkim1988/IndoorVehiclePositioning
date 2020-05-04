@@ -10,6 +10,13 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 ---
 Below are demo videos of our indoor vehicle localization results.
 Please note that the demo videos are not played the highest FPS because of the visualization of each processing step.
+The demo videos below show multiple windows and each window of the video is shown in the figures below.
+ - for single camera
+ <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
+ - for two camera
+ <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
+ ![Video index](https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable_.png)<br/>
+ 
 #### 1. 1:18 Testbed
 
 - Single cameras<br>
@@ -20,21 +27,17 @@ will be available soon
 
 #### 2. Real
 - Single cameras<br> 
-<!--![Video index](./img/singleviewtable.png = 640x)-->
-<img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
     - camera 1<br/>
-<iframe src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
-<!--[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)-->  
+<!--<iframe src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>-->
+[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)<br/>
     - camera 2<br/>
-<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>
-<!--[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)-->  
+<!--<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>-->
+[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)<br/>
 
 - Multiple cameras<br>
-<!--![Video index](./img/multiviewtable.png = 640x)-->
-<img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
     - camera 1&2<br>
-<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>
-<!--[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  -->
+<!--<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>-->
+[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)<br/>
 
 ---
 Source code(under construction)  
