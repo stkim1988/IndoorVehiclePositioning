@@ -26,9 +26,9 @@ The demo video consists of several windows as shown figures below.
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - For two cameras<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
-<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="1" allowfullscreen></iframe><br/>
-<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="1" allowfullscreen></iframe><br/>
-<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="1" allowfullscreen></iframe><br/>
+<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
+<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>
+<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>
 
 
 <!--
