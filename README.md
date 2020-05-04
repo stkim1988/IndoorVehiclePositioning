@@ -23,7 +23,7 @@ will be available soon
 {% include singleCamIndex.html %}
 - camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
-- camera 2<br>  
+- camera 2<br>
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 ##### Multiple cameras  
