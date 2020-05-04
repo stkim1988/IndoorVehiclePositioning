@@ -26,20 +26,35 @@ will be available soon
 will be available soon
 
 #### 2. Real
-- Single cameras<br> 
+<div class = "container">
+<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen="video"></iframe><br/>
+<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen="video"></iframe><br/>
+<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen="video"></iframe><br/>
+</div>
+
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+<!--
     - camera 1<br/>
-<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen style="overflow:hidden;height:780;width:360"></iframe><br/>
-
-
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)<br/>
     - camera 2<br/>
-<!--<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>-->
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)<br/>
-
 - Multiple cameras<br>
     - camera 1&2<br>
-<!--<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>-->
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)<br/>
+-->
 
 ---
 Source code(under construction)  
