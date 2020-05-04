@@ -8,13 +8,7 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 
 ### Video results 
 ---
-Below are demo videos of our indoor vehicle localization results.
-The demo videos consists of multiple windows as shown in the figure below.
- - for single camera<br/>
- <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
- - for two camera<br/>
- <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
- <!--![Video index](https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable_.png)<br/>-->
+
  
 #### 1. 1:18 Testbed
 
@@ -25,7 +19,13 @@ will be available soon
 will be available soon
 
 #### 2. Real
-
+Below are demo videos of our indoor vehicle localization results in real parking lots.
+In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system. 
+The demo videos consists of multiple windows as shown in the figure below.
+ - for single camera<br/>
+ <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
+ - for two camera<br/>
+ <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="1" allowfullscreen></iframe><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="1" allowfullscreen></iframe><br/>
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="1" allowfullscreen></iframe><br/>
