@@ -27,8 +27,9 @@ will be available soon
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 - Multiple cameras  
+{% include singleCamIndex.html %}
     - camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
-
+---
 Source code(under construction)  
