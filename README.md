@@ -24,13 +24,13 @@ will be available soon
 - camera 1
 | Captured fisheye image | Bird's eye view | 
 | Vehicle region in fisheye image | Vehicle region in bird's eye view |  |
-[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/hqdefault.jpg)](https://youtu.be/TVy8VizQbG0)  
+[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
 - camera 2    
-[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/hqdefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
+[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 #####  +Multiple cameras  
 - camera 1&2
-[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/hqdefault.jpg)](https://youtu.be/cxhGteBag0M)  
+[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
 
 Source code(under construction)  
