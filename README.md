@@ -18,7 +18,7 @@ will be available soon
 - Multiple cameras<br>
 will be available soon
 
-#### 2. Real
+#### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
 The demo video consists of several windows as shown figures below.
