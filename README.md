@@ -26,25 +26,11 @@ will be available soon
 will be available soon
 
 #### 2. Real
-<div class = "container">
-<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen="video"></iframe><br/>
-<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen="video"></iframe><br/>
-<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen="video"></iframe><br/>
-</div>
 
-.container {
-    position: relative;
-    width: 100%;
-    height: 0;
-    padding-bottom: 56.25%;
-}
-.video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
+<iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="1" allowfullscreen></iframe><br/>
+<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="1" allowfullscreen></iframe><br/>
+<iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="1" allowfullscreen></iframe><br/>
+
 
 <!--
     - camera 1<br/>
