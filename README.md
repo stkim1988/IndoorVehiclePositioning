@@ -12,22 +12,22 @@ Below are demo videos of our indoor vehicle localization results.
 Please note that the demo videos are not played the highest FPS because of the visualization of each processing step.
 #### 1. 1:18 Testbed
 
-##### Single cameras 
+- Single cameras<br>
 will be available soon
 
-##### Multiple cameras
+- Multiple cameras<br>
 will be available soon
 
 #### 2. Real
-##### Single cameras 
+- Single cameras<br> 
 {% include singleCamIndex.html %}
-- camera 1<br>
+    - camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
-- camera 2<br>
+    - camera 2<br>
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
-##### Multiple cameras  
-- camera 1&2<br>
+- Multiple cameras  
+    - camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
 
