@@ -20,14 +20,16 @@ will be available soon
 
 #### 2. Real
 - Single cameras<br> 
-![Video index](./img/singleviewtable.png =640px)
+<!--![Video index](./img/singleviewtable.png = 640x)-->
+<img src="https://github.com/stkim1988/IndoorVehiclePositioning/blob/master/img/singleviewtable.png" width="640">
     - camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
     - camera 2<br>
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 - Multiple cameras  
-![Video index](./img/multiviewtable.png =640px)
+<!--![Video index](./img/multiviewtable.png = 640x)-->
+<img src="https://github.com/stkim1988/IndoorVehiclePositioning/blob/master/img/multiviewtable.png" width="640">
     - camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
