@@ -20,7 +20,7 @@ will be available soon
 
 #### 2. Real
 - Single cameras<br> 
-{% include singleCamIndex.html %}
+
 <table class="tg">
 <tbody>
 <tr>
