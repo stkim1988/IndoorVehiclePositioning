@@ -2,31 +2,35 @@
 Submitted for publication in IEEE Systems Journal
 
 ### Abstract
+---
 
 The vehicle's automatic positioning relies primarily on the Global Positioning System (GPS). However, in indoor environments such as tunnels and indoor parking lots, the GPS signal is weak, which can significantly reduce the accuracy of GPS-based positioning. To replace GPS signal in indoor spaces, we develop an accurate indoor vehicle positioning system using multiple fish-eye surveillance cameras. Our system first extracts vehicle segments from the top-view image of each fish-eye camera. These segments are then integrated into a common undistorted coordinate system. The center of the vehicle is finally determined using our simple but effective box fitting method. Moreover, a 1/18 scale indoor parking lot is designed to evaluate the performance of the proposed system. Throughout our experiments, we obtained average positioning errors of 30 cm or 24 cm in the regions covered by a single camera or multiple cameras, respectively. 
 
 ### Video results 
+---
 Below are demo videos of our indoor vehicle localization results.
-Please note that the demo videos are not played the highest FPS because of the visualization of each processing step.
-#### 1:18 Testbed
+Please note that the demo videos are not played the highest FPS because of the visualization of each processing st--ep.
+#### -1:18 Testbed
 
-#####   -Single cameras 
+##### +Single cameras 
 will be available soon
 
-#####   -Multiple cameras
+##### +Multiple cameras
 will be available soon
 
-#### Real
-#####   -Single cameras 
----
-- camera 1  
-[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/0.jpg)](https://youtu.be/TVy8VizQbG0)  
+#### -Real
+#####  +Single cameras 
+
+- camera 1
+| Captured fisheye image | Bird's eye view | 
+| Vehicle region in fisheye image | Vehicle region in bird's eye view |  |
+[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/maxresdefault.jpg)](https://youtu.be/TVy8VizQbG0)  
 - camera 2    
-[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/0.jpg)](https://youtu.be/8LBCfdlbXOU)  
+[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/maxresdefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
-#####   -Multiple cameras  
----
-[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/0.jpg)](https://youtu.be/cxhGteBag0M)  
+#####  +Multiple cameras  
+- camera 1&2
+[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/maxresdefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
 
 Source code(under construction)  
