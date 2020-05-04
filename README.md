@@ -14,7 +14,7 @@ will be available soon
 will be available soon
 
 ### Video results (Real)
-{% include video.html id="https://www.youtube.com/watch?v=cxhGteBag0M" %}  
+{% include video.html id="cxhGteBag0M" %}  
 
 
 Source code(under construction)
