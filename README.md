@@ -18,10 +18,8 @@ will be available soon
 
 #### Real
 #####   -Single cameras 
-camera 1  
-[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/0.jpg)](https://youtu.be/TVy8VizQbG0)  
-camera 2  
-[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/0.jpg)](https://youtu.be/8LBCfdlbXOU)  
+camera 1[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/0.jpg)](https://youtu.be/TVy8VizQbG0)  
+camera 2[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/0.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 #####   -Multiple cameras  
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/0.jpg)](https://youtu.be/cxhGteBag0M)  
