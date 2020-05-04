@@ -15,7 +15,7 @@ The demo videos below show multiple windows and each window of the video is show
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - for two camera<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
- ![Video index](https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable_.png)<br/>
+ <!--![Video index](https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable_.png)<br/>-->
  
 #### 1. 1:18 Testbed
 
@@ -28,7 +28,7 @@ will be available soon
 #### 2. Real
 - Single cameras<br> 
     - camera 1<br/>
-<!--<iframe src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>-->
+<iframe width=auto height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)<br/>
     - camera 2<br/>
 <!--<iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>-->
