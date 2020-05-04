@@ -11,9 +11,9 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 Below are demo videos of our indoor vehicle localization results.
 Please note that the demo videos are not played the highest FPS because of the visualization of each processing step.
 The demo videos below show multiple windows and each window of the video is shown in the figures below.
- - for single camera
+ - for single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
- - for two camera
+ - for two camera<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
  ![Video index](https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable_.png)<br/>
  
