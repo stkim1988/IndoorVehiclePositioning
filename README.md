@@ -28,7 +28,9 @@ will be available soon
 #### 2. Real
 - Single cameras<br> 
     - camera 1<br/>
-<iframe width=auto height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
+<iframe src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen style="overflow:hidden;height:100%;width:100%" 
+        height="100%" 
+     width="100%"></iframe><br/>
 
 
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)<br/>
