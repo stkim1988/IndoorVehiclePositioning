@@ -20,16 +20,14 @@ will be available soon
 
 #### -Real
 #####  +Single cameras 
-
-- camera 1
-| Captured fisheye image | Bird's eye view | 
-| Vehicle region in fisheye image | Vehicle region in bird's eye view |  |
+{% include singleCamIndex.html %}
+- camera 1<br>
 [![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)  
-- camera 2    
+- camera 2<br>  
 [![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)  
 
 #####  +Multiple cameras  
-- camera 1&2
+- camera 1&2<br>
 [![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)  
 
 
