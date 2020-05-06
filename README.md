@@ -19,9 +19,8 @@ The demo videos consists of multiple windows as shown figures below.
 - Multiple cameras<br>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
 
-We are now investigating a method to obtain more stable result for frame errors by applying a filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />
-
 - Single camera results with Kalman filter<br />
+We are now investigating a method to obtain more stable result for frame errors by applying a filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />
 <iframe width="1448" height="384" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br/>
 
 #### 2. Real enviroment
