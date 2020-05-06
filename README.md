@@ -21,7 +21,7 @@ The demo videos consists of multiple windows as shown figures below.
 
 - Single camera results with filter<br />
 We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />
-<iframe width="1448" height="384" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br/>
+<iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br/>
 
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
