@@ -23,12 +23,6 @@ Below are demo videos of our indoor vehicle localization results in 1:18 scaled 
 <iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
 
-- Single camera results with filter<br />
-We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
-<img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
-<iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
-<br />
-
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
@@ -43,6 +37,11 @@ The demo videos consists of multiple windows as shown in figures below.<br />
 <iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>
 
+#### 3. Additional rusults
+We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
+<img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
+<iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
+<br />
 
 <!--
     - camera 1<br/>
