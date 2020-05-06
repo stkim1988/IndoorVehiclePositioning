@@ -39,8 +39,7 @@ The demo videos consists of multiple windows as shown in figures below.<br />
 
 ---
 ### Additional results 
-Our system starts by segmenting vehicles from fisheye images. Depending on the application and enviroments, a more robust vehicle segmentation is acheived by applying existing segmentation techniques. Thus, we tested an existing background subtracktion method in [2] to obtain segmenation of moving vehicle as inputs of the proposed system.<br />   
-In addition, our system performed vehicle positioning calculations in every frame independently. Temporal integration needs to be performed for temporally coherent vehicle positioning. Therefore, we are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[3] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
+Our system starts by segmenting vehicles from fisheye images. Depending on the application and enviroments, a more robust vehicle segmentation is acheived by applying existing segmentation techniques. Thus, we tested an existing background subtracktion method in [2] to obtain segmenation of moving vehicle as inputs of the proposed system. In addition, our system performed vehicle positioning calculations in every frame independently. Temporal integration needs to be performed for temporally coherent vehicle positioning. Therefore, we are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[3] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />   
 <img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
 <iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
 <br />
