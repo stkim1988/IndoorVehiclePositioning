@@ -29,7 +29,8 @@ We are now investigating a method to obtain more stable result for frame errors 
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
-The demo videos consists of multiple windows as shown in figures below.<br />
+The demo videos consists of multiple windows as shown in figures below.<p/>
+
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - For two cameras<br/>
