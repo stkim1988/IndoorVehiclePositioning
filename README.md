@@ -11,7 +11,7 @@ Note that the color results (perspective/orthographic bird's eye view) in the vi
 #### 1. 1:18 Testbed
 We built a testbed that has a 1/18 scale of an indoor parking lot, and used diecast toy cars that have the same 1/18 scale as the environment. There are 4x4 pillars at 42cm(7.56m in real scale) intervals along the horizontal and vertical directions.<br /> 
 
-Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed. In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system, and the pillars in testbed were represented by the rantangles in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
+In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system, and the pillars in testbed were represented by the rantangles in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
 
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br />
@@ -19,24 +19,28 @@ Below are demo videos of our indoor vehicle localization results in 1:18 scaled 
   - For two cameras<br/>
  | cam1 result | integrated result |<br /> 
  | cam2 result |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |<br />
+ 
+ Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.<br /> 
 <iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
 
 #### 2. Real enviroment
-The height of the ceiling is about 2.3 m and the distance between the two cameras is 8.8 m. We drew a horizontal line of length 19 m on the floor and marked 20 positions at intervals of 1 m. We located vehicles at these positions and captured images. The estimated center positions of the vehicles obtained by the proposed system were compared with these predefined positions.<br />
-
-Below are demo videos of our indoor vehicle localization results in real parking lots. In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system, and the predetermined GT positions in parking lot were represented by blue cross in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
+To test the performance of the proposed system in real environments, we installed the same surveillance cameras to the ceiling of an indoor parking lot. The height of the ceiling is about 2.3 m and the distance between the two cameras is 8.8 m. We drew a horizontal line of length 19 m on the floor and marked 20 positions at intervals of 1 m. We located vehicles at these positions and captured images. The estimated center positions of the vehicles obtained by the proposed system were compared with these predefined positions.<br />
+In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system, and the predetermined GT positions in parking lot were represented by blue cross in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
 
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - For two cameras<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
+ 
+Below are demo videos of our indoor vehicle localization results in real parking lots. <br />
 
 <iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/> 
-  
+
+
 
 ---
 ### Additional results 
