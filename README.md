@@ -11,26 +11,25 @@ Note that the color results (perspective/orthographic bird's eye view) in the vi
 #### 1. 1:18 Testbed
 We built a testbed that has a 1/18 scale of an indoor parking lot, and used diecast toy cars that have the same 1/18 scale as the environment. There are 4x4 pillars at 42cm( 7.56m in real scale) intervals along the horizontal and vertical directions. The pillars in testbed is represented by the rantangles in result videos to help understanding the loaclization results. <p/> 
 
-Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed. In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system. The demo videos consists of multiple windows as shown figures below.<br />
+Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed. In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system. The demo videos consists of multiple windows as shown in figures below.<br />
  - For single camera<br/>
- <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
+ <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><p/>
   - For two cameras<br/>
  | cam1 result | integrated result |<br /> 
  | cam2 result |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |<br />
 <iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
-
-
+<p/>
 - Single camera results with filter<br />
 We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
 <img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
 <iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
-
+<p/>
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
-The demo videos consists of multiple windows as shown figures below.<br />
+The demo videos consists of multiple windows as shown in figures below.<br />
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - For two cameras<br/>
