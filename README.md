@@ -56,8 +56,8 @@ The demo videos consists of multiple windows as shown in figures below.<br />
 
 ---
 ### References
-[1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.
-[2] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.
+[1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.  
+[2] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.  
 
 
 ---
