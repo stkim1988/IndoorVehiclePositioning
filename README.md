@@ -39,7 +39,8 @@ The demo videos consists of multiple windows as shown in figures below.<br />
 
 ---
 ### Additional results 
-Our system performed vehicle positioning calculations in every frame independently. Temporal integration needs to be performed for temporally coherent vehicle positioning. Therefore, we are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
+Our system starts by segmenting vehicles from fisheye images. Depending on the application and enviroments, a more robust vehicle segmentation is acheived by applying existing segmentation techniques. Thus, we tested an existing background subtracktion method in [2] to obtain segmenation of moving vehicle as inputs of the proposed system.<br />   
+In addition, our system performed vehicle positioning calculations in every frame independently. Temporal integration needs to be performed for temporally coherent vehicle positioning. Therefore, we are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[3] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
 <img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
 <iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
 <br />
@@ -57,7 +58,8 @@ Our system performed vehicle positioning calculations in every frame independent
 ---
 ### References
 [1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.  
-[2] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.  
+[2] A. Sobral and A. Vacavant, “A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos,” Comput. Vis. Image Underst., vol. 122, pp. 4–21, May 2014.  
+[3] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.  
 
 
 ---
