@@ -7,7 +7,8 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 
 ---
 ### Video results 
-The demo videos consists of multiple windows as shown figures below. - For single camera<br/>
+The demo videos consists of multiple windows as shown figures below.<br />
+ - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
  - For two cameras<br/>
  <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
