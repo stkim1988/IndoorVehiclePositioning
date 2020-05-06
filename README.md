@@ -10,8 +10,7 @@ Note that the color results (perspective/orthographic bird's eye view) in the vi
 
 #### 1. 1:18 Testbed
 Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.
-In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system.   
-The demo videos consists of multiple windows as shown figures below.<br />
+In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system. The demo videos consists of multiple windows as shown figures below.<br />
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
   - For two cameras<br/>
@@ -23,8 +22,7 @@ The demo videos consists of multiple windows as shown figures below.<br />
 The rantangles in result videos represent the 4x4 fillters in testbed.<br /> 
 
 - Single camera results with filter<br />
-We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />
-The demo videos consists of multiple windows as follows<br /> 
+We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
 <img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
 <iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
 
