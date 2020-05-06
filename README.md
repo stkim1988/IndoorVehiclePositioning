@@ -7,16 +7,17 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 
 ---
 ### Video results 
+The demo videos consists of multiple windows as shown figures below. - For single camera<br/>
+ <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
+ - For two cameras<br/>
+ <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
+
 #### 1. 1:18 Testbed
 Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.  
 In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system.   
-The demo videos consists of multiple windows as shown figures below.
 
-- Single cameras<br />
 <iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
-
-- Multiple cameras<br>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
 
 - Single camera results with filter<br />
@@ -26,11 +27,7 @@ We are now investigating a method to obtain more stable result for frame errors 
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system.   
-The demo video consists of several windows as shown figures below.
- - For single camera<br/>
- <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
- - For two cameras<br/>
- <img width="450" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/multiviewtable.png"><br/>
+
 <iframe width="780" height="360" src="https://www.youtube.com/embed/TVy8VizQbG0" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="780" height="360" src="https://www.youtube.com/embed/8LBCfdlbXOU" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/>
