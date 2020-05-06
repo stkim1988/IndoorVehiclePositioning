@@ -12,11 +12,17 @@ Below are demo videos of our indoor vehicle localization results in 1:18 scaled 
 In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system.   
 The demo videos consists of multiple windows as shown figures below.
 
-- Single cameras<br>
-will be available soon
+- Single cameras<br />
+<iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
+<iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
 
 - Multiple cameras<br>
-will be available soon
+<iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
+
+We are now investigating a method to obtain more stable result for frame errors by applying a filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />
+
+- Single camera results with Kalman filter<br />
+<iframe width="1448" height="384" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br/>
 
 #### 2. Real enviroment
 Below are demo videos of our indoor vehicle localization results in real parking lots.  
@@ -44,6 +50,7 @@ The demo video consists of several windows as shown figures below.
 ---
 ### References
 [1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.
+[2] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.
 
 
 ---
