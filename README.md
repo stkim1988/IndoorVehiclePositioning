@@ -9,8 +9,9 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 Note that the color results (perspective/orthographic bird's eye view) in the videos below are for visualization purposed to aid understanding, and only a binary segmentation map is used overall stages of the proposed system. <br />
 
 #### 1. 1:18 Testbed
-Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.
-In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system. The demo videos consists of multiple windows as shown figures below.<br />
+We built a testbed that has a 1/18 scale of an indoor parking lot, and used diecast toy cars that have the same 1/18 scale as the environment. There are 16 pillars at 42cm( 7.56m in real scale) intervals along the horizontal and vertical directions. The pillars in testbed is represented by the rantangles in result videos to help understanding the loaclization results. <p/> 
+
+Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed. In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system. The demo videos consists of multiple windows as shown figures below.<br />
  - For single camera<br/>
  <img width="360" height="180" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/singleviewtable.png" ><br/>
   - For two cameras<br/>
@@ -19,7 +20,7 @@ In this experiment, our trained SegNet[1] is used to obtain vehicles region as i
 <iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="612" height="360" src="https://www.youtube.com/embed/gZvD63LF_uQ" frameborder="0" allowfullscreen></iframe><br/>
 <iframe width="590" height="400"  src="https://www.youtube.com/embed/F_sz76jqGwg" frameborder="0" allowfullscreen></iframe><br/>
-The rantangles in result videos represent the 4x4 fillters in testbed.<br /> 
+
 
 - Single camera results with filter<br />
 We are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[2] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br /> 
