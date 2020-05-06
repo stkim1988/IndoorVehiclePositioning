@@ -6,7 +6,7 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 
 ---
 ### Video results 
-Note that the color results (perspective/orthographic bird's eye view) in videos are for visualization purposed to aid understanding, only a binary segmentation map is used overall stages of proposed system. <br />
+Note that the color results (perspective/orthographic bird's eye view) in the videos below are for visualization purposed to aid understanding, and only a binary segmentation map is used overall stages of the proposed system. <br />
 
 #### 1. 1:18 Testbed
 Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.
