@@ -43,30 +43,22 @@ Below are demo videos of our indoor vehicle localization results in real parking
 <iframe width="980" height="360"  src="https://www.youtube.com/embed/cxhGteBag0M" frameborder="0" allowfullscreen></iframe><br/> 
 
 
-
+<!--
 ---
 ### Additional results 
 Our system starts by segmenting vehicles from fisheye images. Depending on the application and enviroments, other existing segmentation techniques can be also applied. Thus, we are now testing an existing background subtracktion method in [2] to obtain segmenation of moving vehicle as inputs of the proposed system. In addition, our system performed vehicle positioning calculations in every frame independently. Temporal integration needs to be performed for temporally coherent vehicle positioning. Therefore, we are now investigating a method to obtain more stable result for frame errors by applying a Kalman filter[3] to the center coordinates obtained in a continuous frame, and the result video is as follows.<br />   
 <img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
 <iframe width="724" height="192" src="https://www.youtube.com/embed/bmRLaFnCN38" frameborder="0" allowfullscreen></iframe><br />
 <br />
-
-<!--
-    - camera 1<br/>
-[![Watch the video](https://img.youtube.com/vi/TVy8VizQbG0/sddefault.jpg)](https://youtu.be/TVy8VizQbG0)<br/>
-    - camera 2<br/>
-[![Watch the video](https://img.youtube.com/vi/8LBCfdlbXOU/sddefault.jpg)](https://youtu.be/8LBCfdlbXOU)<br/>
-- Multiple cameras<br>
-    - camera 1&2<br>
-[![Watch the video](https://img.youtube.com/vi/cxhGteBag0M/sddefault.jpg)](https://youtu.be/cxhGteBag0M)<br/>
 -->
 
 ---
 ### References
 [1] V. Badrinarayanan, A. Kendall and R. Cipolla, “SegNet: A deep convolutional encoder-decoder architecture for image segmentation,” IEEE Trans. Pattern Anal. Mach. Intell., vol. 39, no. 12, pp. 2481-2495, Dec. 2017.  
+<!--
 [2] A. Sobral and A. Vacavant, “A comprehensive review of background subtraction algorithms evaluated with synthetic and real videos,” Comput. Vis. Image Underst., vol. 122, pp. 4–21, May 2014.  
 [3] Kalman, R. E., "A new approach to linear filtering and prediction problems," 1960.  
-
+-->
 
 ---
 Source code(under construction)  
