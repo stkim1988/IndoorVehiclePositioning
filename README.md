@@ -28,6 +28,7 @@ In this experiment, our trained SegNet[1] is used to obtain vehicles region as i
 
 #### 2. Real enviroment
 To test the performance of the proposed system in real environments, we installed the same surveillance cameras to the ceiling of an indoor parking lot. The height of the ceiling is about 2.3 m and the distance between the two cameras is 8.8 m. We drew a horizontal line of length 19 m on the floor and marked 20 positions at intervals of 1 m. We located vehicles at these positions and captured images. The estimated center positions of the vehicles obtained by the proposed system were compared with these predefined positions.<br />
+
 In this experiment, we used the GT segmentation results of vehicles as inputs of the proposed system, and the predetermined GT positions in parking lot were represented by blue cross in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
 
  - For single camera<br/>
