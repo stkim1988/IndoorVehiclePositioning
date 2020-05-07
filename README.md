@@ -19,7 +19,7 @@ In this experiment, our trained SegNet[1] is used to obtain vehicles region as i
  
   - For two cameras<br/>
  | cam1 result | integrated result |<br /> 
- | cam2 result |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |<br />
+ | cam2 result |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |<br />
  
  Below are demo videos of our indoor vehicle localization results in 1:18 scaled testbed.<br /> 
 <iframe width="612" height="360" src="https://www.youtube.com/embed/VqgMvtV6of4" frameborder="0" allowfullscreen></iframe><br/>
