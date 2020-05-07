@@ -9,7 +9,7 @@ The autonomous positioning of a vehicle predominantly relies on the global posit
 ### Video results 
 Note that the color results (perspective/orthographic bird's eye view) in the videos below are for visualization purposes to aid understanding, and only a binary segmentation map from capured fish-eye image is used overall stages of the proposed system. <br />
 
-#### 1. 1:18 Testbed
+#### 1. 1:18 testbed enviroment
 We built a testbed that has a 1/18 scale of an indoor parking lot, and used diecast toy cars that have the same 1/18 scale as the environment. There are 4x4 pillars at 42cm(7.56m in real scale) intervals along the horizontal and vertical directions.<br /> 
 
 In this experiment, our trained SegNet[1] is used to obtain vehicles region as inputs of the proposed system, and the pillars in testbed were represented by the rantangles in result videos to help understanding the loaclization results. The demo videos consisted of multiple windows as shown in figures below.<br />
