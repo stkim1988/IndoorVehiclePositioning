@@ -46,7 +46,7 @@ Below are demo videos of our indoor vehicle localization results in real parking
 #### 3. Technical details of segmentation 
 We constructed our own dataset to achieve reliable segmentation performance for our vehicle positioning system enviroment. To figure out the number of enough training semple, we trained SegNet [26] multiple times with different numbers of training samples ranging from 150 to 1428. For this experiment, SegNet was trained for 5,000 epochs using each training dataset. We evaluated the segmentation performance on 878 test images in terms of the popular F1-score. The results shown in Fig. 1 indicate that the accuracy gradually improves as the number of training samples increases, but the accuracy tends to saturate after 1000+ training samples. In conclusion, we can get stable segmentation results through more than 1000 training samples.
 
-<img width="360" height="90" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/filter_.png" ><br/>
+<img width="360" height="200" src="https://raw.githubusercontent.com/stkim1988/IndoorVehiclePositioning/master/img/SegNet_training.png" ><br/>
 Figure 1: The F1-scores of the SegNet trained by using different numbers of traning samples. The accuracy tends to saturate after 1000+ training samples.<br />
 
 
